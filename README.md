@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Gentent: Your AI-Powered Content Creation Companion
+Gentent is a versatile AI tool designed to streamline content generation across multiple formats. With just a simple prompt, users can effortlessly create:
+
+Images
+Videos
+Code snippets
+Conversational content
+
+Whether you're a creative professional, developer, or content creator, Gentent empowers you to bring your ideas to life quickly and efficiently. Harness the power of AI to enhance your productivity and unleash your creativity.
 
 ## Getting Started
 
@@ -23,14 +31,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![alt text](https://github.com/shafeeqmenoth1/gentent-aiApp/blob/master/Screenshot%202024-07-26%20072238.png)
 ![alt text](https://github.com/shafeeqmenoth1/gentent-aiApp/blob/master/Screenshot%202024-07-26%20072322.png)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
