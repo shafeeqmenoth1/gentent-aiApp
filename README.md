@@ -21,6 +21,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 ## Screenshots
 ![alt text](https://github.com/shafeeqmenoth1/gentent-aiApp/blob/master/Screenshot%202024-07-26%20072238.png)
+![alt text](https://github.com/shafeeqmenoth1/gentent-aiApp/blob/master/Screenshot%202024-07-26%20072322.png)
 
 ## Learn More
 
